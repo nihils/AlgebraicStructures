@@ -1,4 +1,4 @@
-AlgebraicStructures is just a library of typeclasses and types for using the algebraic structures (Groups,Rings,Fields,etc.) in Haskell. The library also contains example implementations of Groups. Namely, Cyclic groups and Dihedral groups. 
+AlgebraicStructures is a library of typeclasses and types for using algebraic structures in Haskell. The library also contains some example implementations. 
 
 License
 =======
@@ -15,4 +15,4 @@ Pull from repo, and compile:
 
 Usage 
 =====
-Check out (src/Objects.hs) to see example implementations of the Group typeclass.
+Check out [src/Objects.hs](src/Objects.hs) to see example implementations of Groups.
